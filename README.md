@@ -1,2 +1,2 @@
 # farmaciaVirtual
-Projeto faculdade
+Projeto aplicativo para estabelecimentos farmacêuticos.
